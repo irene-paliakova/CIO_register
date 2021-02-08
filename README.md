@@ -1,3 +1,3 @@
 # Регистр выполненных СИО индивидуальных оценок
 
-https://syirok.github.io/CIO_register/
+https://irene-paliakova.github.io/CIO_register/
